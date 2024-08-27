@@ -1,0 +1,50 @@
+name: xCraft
+author: XenoDEV
+version: '4.1.0-SNAPSHOT'
+api-version: 1.20
+
+main: de.xenodev.xCraft
+
+commands:
+  adminmode:
+    description: Gehe in den Adminmode
+    aliases: ["adminmode", "am", "admin"]
+  broadcast:
+    description: Sende eine Nachricht an alle Spieler
+    aliases: ["broadcast", "bc", "global"]
+  clearchat:
+    description: Der Chat wird gelöscht
+    aliases: ["clearchat", "chatclear", "cc"]
+  clearlag:
+    description: Lösche Items in einer Welt
+    aliases: ["clearlag", "cl", "antilag"]
+  configreload:
+    description: Reloade verschiedene Configs
+    aliases: ["configreload", "reloadconfig", "cl"]
+  gamemode:
+    description: Setzte deinen Gamemode um
+    aliases: ["gamemode", "gm"]
+  position:
+    description: Setzte verschiedene Positionen
+  start:
+    description: Starte das TMB Projekt
+  uptime:
+    description: Schaue dir die vergangene Zeit des Projektes an
+  anonym:
+    description: Sende anonyme Nachrichten
+  author:
+    description: Setzte den Author des Buches um
+  hilfe:
+    description: Schaue dir die Plugin-Eigenschaften an
+  rename:
+    description: Nenne ein Item deiner wahl um
+  status:
+    description: Setzte deinen Status um
+  color:
+    description: Setzte deine Farbe um
+  reset:
+    description: Setzte Spieler oder das Projekt zurück
+  uuid:
+    description: Frage die UUID eines Spielers ab
+  market:
+    description: Handle mit dem Bauamt für ein Shop

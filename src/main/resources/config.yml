@@ -1,0 +1,55 @@
+#In diesem Abteil kannst du alles mit Colorcodes schmücken
+projectname: "§cT§6M§eB§a-§3C§9r§5a§cf§6t §a6"
+projectprefix: "§8[§cT§6M§eB§a-§3C§9r§5a§cf§6t§8] "
+projecterror: "§8[§4§lError§8] "
+
+#Abteil für die Elytra
+cooldown: 5 # Cooldown in Sekunden
+boostvalue: 5 # Booststärke
+spawn-radius: 50 # Radius in Blöcken wo man fliegen kann
+
+#Einstellungen für den Backpack
+activate: false
+buycost: 10 #in Level
+multiplier: 20 #per Level
+maxlevel: 54
+
+#Wechsel die MOTD-Nachrichten hiermit, colorcodes gehen auch
+MOTD-Messages:
+  - Das Leben ist Hard aber schwer.
+  - Ein paar Nuggatbits mit kühler Schokolade
+  - Backst du etwa schon wieder seit 3h Croissants auf?
+  - Wenn er nicht injected ist er legit
+  - Das einzige Gemüse was ich esse ist Obst.
+  - Es sieht alles gut aus, aber es sieht alles scheiße aus
+  - Knife ist schwieriger als Messer
+  - Skill ist es, wenn Luck zur Gewohnheit wird.
+  - Man brauch auch einfach Leute die man Brechen kann.
+  - Seit wann kann man durch Glas durch gucken?
+  - Selbst wenn Deutschland keine Schulden mehr hat, haben sie noch Schulden
+  - Guckt euch diesen Fruchtjoghurt an.
+  - Gönnt ihr euch auch immer Türkisch Honich?
+  - Nachts ist es kälter als draußen.
+  - Ich pul up in nem Lambo, die Lack Farbe ist Mango
+  - Du behauptest du ballst, aber Slime ich balle harter
+  - Flö-Flö, Flötenmann spielt die Flöte ram, bam, bam
+  - Ich komm in den Raum / jetzt bin ich im Raum drin
+  - Ich bin on-fire, wie ein Waldbrand
+  - Ich habe noch einen VGA und DVI Anschluss an meiner Festplatte.
+  - Ich bin gerade wieder dagekommen.
+  - Selbst die Kälte ist kalt.
+  - Dann ist halt Getreide Obst.
+  - Komm t0zen kannst als Entryfrag rein cruisen.
+  - Ich bin unten, ich bin Overpass.
+  - Wir wissen alle, dass Lucas immernoch Unlustig ist.
+  - Bin ich Muted?
+  - JETZT auch mit VOICECHAT1!!!!1
+  - Auf Drei sagen wir Hamburger Royal TS
+  - was sagen wir?
+  - Hamburger Royal TS
+  - Wir sagen auf drei Okö
+
+#Setzte die verschiedenen Punkte fest
+locations:
+  Spawn: null
+  Elytra: null
